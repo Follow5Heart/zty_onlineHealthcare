@@ -7,5 +7,6 @@ public class GitTestJava {
         System.out.println("git提交到本地库");
         System.out.println("添加一行代码");
         System.out.println("1111111");
+        System.out.println("2222222222");
     }
 }
