@@ -9,5 +9,6 @@ public class GitTestJava {
         System.out.println("1111111");
         System.out.println("2222222222");
         System.out.println("在master分支了代码");
+        System.out.println("在hot-fix分支添加了代码");
     }
 }
